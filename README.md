@@ -1,2 +1,4 @@
-# swaminarayan-kirtan
-This is the Swaminarayan kirtans project that contains Kirtans, Channd, Duha, Kavita etc.. all related to Swaminaryan Bhagwan
+# swaminarayan-charitra
+We will create a website that contains Charitras ( Activities  ) of Lord Swaminarayan based on Hugo papermode.
+
+View Site At :- https://vanpariyar.github.io/swaminarayan-charitra/
