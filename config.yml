@@ -139,6 +139,11 @@ params:
         - name: Email
           url: "mailto:vanpariyar@gmail.com"
 
+    editPost:
+      URL: "https://github.com/vanpariyar/swaminarayan-kirtan/tree/writing/content"
+      Text: "Suggest Changes" # edit text
+      appendFilePath: true # to append file path to Edit link
+
     # label:
     #     text: "Home"
     #     icon: icon.png
