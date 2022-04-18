@@ -4,6 +4,7 @@ date: {{ .Date }}
 # draft: true
 description: "Swaminarayan Kirtan Lyrics of {{ replace .Name "-" " " | title }}, of lord Swaminarayan"
 tags: [""]
+slug: ["aeri-aeri-aaj-rangmahal-madhye-baithe-mohan-piya"]
 categories: ["Sharanagati"]
 author: ["Premanand Swami"]
 rachayita: ["પ્રેમાનંદ સ્વામી"] 

@@ -4,7 +4,8 @@ date: 2021-09-16T21:35:49+05:30
 # draft: true
 description: "Swaminarayan Kirtan Lyrics of Aeri Aeri Aaj Rangmahal Madhye Baithe Mohan Piya, of lord Swaminarayan"
 tags: ["Rang Mahol Kirtan"]
-categories: ["Sharanagati"]
+slug: ["aeri-aeri-aaj-rangmahal-madhye-baithe-mohan-piya"]
+categories: ["bhav"]
 author: ["Premanand Swami"]
 rachayita: ["પ્રેમાનંદ સ્વામી"] 
 # aliases: ["migrate-from-jekyl"]
