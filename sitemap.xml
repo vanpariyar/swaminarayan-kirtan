@@ -2,12 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vanpariyar.in/swaminarayan-kirtan/kirtan/16-09-2021-aeri-aeri-aaj-rangmahal-madhye-baithe-mohan-piya/</loc>
-    <lastmod>2021-09-16T21:35:49+05:30</lastmod>
+    <loc>https://vanpariyar.in/swaminarayan-kirtan/author/</loc>
+    <lastmod>2022-04-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://vanpariyar.in/swaminarayan-kirtan/author/</loc>
+    <loc>https://vanpariyar.in/swaminarayan-kirtan/categories/</loc>
+    <lastmod>2022-04-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.in/swaminarayan-kirtan/kirtan/</loc>
+    <lastmod>2022-04-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.in/swaminarayan-kirtan/tags/murti/</loc>
+    <lastmod>2022-04-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.in/swaminarayan-kirtan/categories/nitya-niyam/</loc>
+    <lastmod>2022-04-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.in/swaminarayan-kirtan/author/premanand-swami/</loc>
+    <lastmod>2022-04-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.in/swaminarayan-kirtan/tags/shrungar/</loc>
+    <lastmod>2022-04-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.in/swaminarayan-kirtan/</loc>
+    <lastmod>2022-04-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.in/swaminarayan-kirtan/tags/</loc>
+    <lastmod>2022-04-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.in/swaminarayan-kirtan/tags/vandu/</loc>
+    <lastmod>2022-04-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.in/swaminarayan-kirtan/kirtan/18-04-2022-vandu-sahajanand-ras-rup-anupam-sar-ne-re-lol/</loc>
+    <lastmod>2022-04-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.in/swaminarayan-kirtan/kirtan/16-09-2021-aeri-aeri-aaj-rangmahal-madhye-baithe-mohan-piya/</loc>
     <lastmod>2021-09-16T21:35:49+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -17,32 +67,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://vanpariyar.in/swaminarayan-kirtan/categories/</loc>
-    <lastmod>2021-09-16T21:35:49+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://vanpariyar.in/swaminarayan-kirtan/kirtan/</loc>
-    <lastmod>2021-09-16T21:35:49+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://vanpariyar.in/swaminarayan-kirtan/author/premanand-swami/</loc>
-    <lastmod>2021-09-16T21:35:49+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://vanpariyar.in/swaminarayan-kirtan/tags/rang-mahol-kirtan/</loc>
-    <lastmod>2021-09-16T21:35:49+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://vanpariyar.in/swaminarayan-kirtan/</loc>
-    <lastmod>2021-09-16T21:35:49+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://vanpariyar.in/swaminarayan-kirtan/tags/</loc>
     <lastmod>2021-09-16T21:35:49+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
