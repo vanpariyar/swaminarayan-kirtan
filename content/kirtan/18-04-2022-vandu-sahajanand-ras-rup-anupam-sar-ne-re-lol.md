@@ -1,6 +1,6 @@
 ---
 title: "Vandu Sahajanand Ras Rup anupam sar ne re lol / વંદુ સહજાનંદ રસરૂપ, અનુપમ સારને રે લોલ"
-date: 2022-04-18T21:35:49+05:30
+date: "2022-04-18"
 # draft: true
 description: "Swaminarayan Kirtan Lyrics of Vandu Sahajanand Ras Rup anupam sar ne re lol, of lord Swaminarayan"
 tags: ["vandu", "murti", "shrungar"]
@@ -37,8 +37,6 @@ TocOpen: true
 વર્ણવું સુંદર રૂપ અનુપ, જુગલ ચરણે નમી રે લોલ;
 
 નખશીખ પ્રેમસખીના નાથ, રહો ઊરમાં રમીરે લોલ. ૪
-
-
 
 પદ - ૨
 

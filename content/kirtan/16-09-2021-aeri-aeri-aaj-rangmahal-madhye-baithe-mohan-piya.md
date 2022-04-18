@@ -7,7 +7,7 @@ tags: ["Rang Mahol Kirtan"]
 slug: ["aeri-aeri-aaj-rangmahal-madhye-baithe-mohan-piya"]
 categories: ["bhav"]
 author: ["Premanand Swami"]
-rachayita: ["પ્રેમાનંદ સ્વામી"] 
+# rachayita: ["પ્રેમાનંદ સ્વામી"] 
 # aliases: ["migrate-from-jekyl"]
 ShowToc: true
 TocOpen: true
